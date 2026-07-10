@@ -1,2 +1,2 @@
-# AgenteInteligente
-sitema de calificaion de examenes autonomo
+# ProyectoIA
+Proyecto del curso de Inteligencia Artificial

@@ -1,0 +1,12 @@
+.env
+.env.*
+venv/
+.venv/
+__pycache__/
+.idea/
+*.pyc
+ get_helm.sh
+ .cache_examenes/
+.rag_cache/
+.venv/
+__pycache__/
